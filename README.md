@@ -6,3 +6,11 @@ Desafio da DIO : Construindo um app usando o sensor de movimento com React Nativ
 
 ![On](https://user-images.githubusercontent.com/83093387/169904814-e158ebee-35f5-4396-a9cc-981dc9ca1a4b.PNG)
 
+## Conteudo
+
+-Libs react-native-shake & react-native-torch
+-StyleSheet
+-Hook useState
+-Hook useEffect
+-Add Listener to RNShake
+-Lifecicle ReactJS
